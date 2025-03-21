@@ -21,7 +21,7 @@ body {
   }
   
   .close_icon {
-    color: red;
+    color: rgb(38, 8, 190);
     margin-left: 30px;
     margin-top: 10px;
     cursor: pointer;
